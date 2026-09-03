@@ -1,0 +1,1 @@
+# ngdod-legacy-ore-deposits
